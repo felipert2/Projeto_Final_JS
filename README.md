@@ -1,1 +1,1 @@
-﻿# Projeto Final Curso Java Sript Coderhouse
+﻿# Projeto Final do Curso de Java Sript na Coderhouse
